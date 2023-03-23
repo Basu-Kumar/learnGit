@@ -1,3 +1,3 @@
-let a=5;
+let a=15;
 let b=7;
-document.write(a*b);
+document.write(a%b);
