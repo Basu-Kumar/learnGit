@@ -1,2 +1,4 @@
-let arr=["padhai",'G',1,"ka",0.5,'r','h'];
-document.write(arr[0]);
+let a=5;
+let b=7;
+
+document.write(s1+s2);
